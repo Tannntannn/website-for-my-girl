@@ -282,7 +282,7 @@ function App() {
       <div className="scrapbook-shell">
         <main className="scrapbook-page">
           <div className="scrapbook-inner">
-            <audio ref={audioRef} src="/music/song.mp3" loop />
+            <audio ref={audioRef} src="music/song.mp3" loop />
             <header className="nav">
               <div className="nav-bar">
                 <div className="nav-title">
